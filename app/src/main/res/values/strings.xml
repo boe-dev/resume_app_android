@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ResumeApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_about_me">About Me</string>
+    <string name="title_career">Career</string>
+    <string name="title_skills">Skills</string>
+    <string name="title_books">Books</string>
+    <string name="title_education">Education</string>
+</resources>

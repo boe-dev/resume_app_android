@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/navigation_about_me"
+            android:icon="@drawable/about_me"
+            android:title="@string/title_about_me"/>
+
+    <item
+            android:id="@+id/navigation_career"
+            android:icon="@drawable/career"
+            android:title="@string/title_career"/>
+
+    <item
+            android:id="@+id/navigation_education"
+            android:icon="@drawable/education"
+            android:title="@string/title_education"/>
+
+    <item
+            android:id="@+id/navigation_skills"
+            android:icon="@drawable/skills"
+            android:title="@string/title_skills"/>
+
+
+</menu>
